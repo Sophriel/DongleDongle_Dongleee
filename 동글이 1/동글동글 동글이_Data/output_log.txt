@@ -1,0 +1,38 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+    Driver:   25.21.14.1735
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sophriel\OneDrive - 홍익대학교\홍익대학교\O2CUBE\동글동글 동글이\동글동글 동글이_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 7680x4320 at 0,-2160
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.781700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 25b8 -> priority: 1 
+  Thread -> id: 4404 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.471300 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4465.
+Total: 3.605600 ms (FindLiveObjects: 0.106800 ms CreateObjectMapping: 0.045500 ms MarkObjects: 0.316100 ms  DeleteObjects: 3.136800 ms)
+

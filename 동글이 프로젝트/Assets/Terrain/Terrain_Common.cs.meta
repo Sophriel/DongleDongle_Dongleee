@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a602de7875bd3af48a6186d65c2c603d
+timeCreated: 1486435660
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - terrain: {fileID: 1397717310380828, guid: f3c71b916bf04ce49b95fb033ea9179c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
