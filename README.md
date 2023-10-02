@@ -1,27 +1,23 @@
 # DongleDongle_Dongleee
 
-![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/38fecaf9-ff50-46ca-8128-41af3af79aa6)
-![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/007f6793-6b6d-4435-a6a4-a89fb686cfe3)
-![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/44dc196f-fa5a-4266-bc22-938dbc1d1474)
-![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/d3233015-4a76-4b68-a062-82386e7f082c)
+![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/623f9ffa-9496-4fa7-ba2c-6b8bb8652a35)
+![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/d7123701-bfb2-4776-a832-5090901c7de4)
+![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/3794e693-30ad-47fa-93f5-38ef4ebb0430)
+![image](https://github.com/Sophriel/DongleDongle_Dongleee/assets/32302066/b366606e-8a99-4ae2-9040-a891ceeb6a86)
 
+2016.12 ~ 2017.02
 
-https://youtu.be/aDMct7nqQEY?si=UZbdIMkxMgbBkGhs
-
-주어진 블록만을 움직여 다섯개의 숫자 블록을 규칙적인 숫자로 이루어진 한 줄로 이어 빙고를 만드는 게임입니다.
-
-플레이어는 3줄의 빙고를 완성하기 위해 어떤 숫자의 구성으로 빙고를 만들지 신중히 고려해야 합니다.
-
-	2019.05 ~ 2019.06
- 
 	Unity 3D
  
 	1인 개발
  
-	3x3, 5x5, 7x7 ... 개의 블록 인스턴싱 및 배치
+	2019 게임학부 게임 프로토타입 공모전 은상 수상
  
-	클릭과 드래그를 통한 블록 조작 구현
+	Observer 디자인 패턴 적용
  
-	가로, 세로, 대각선의 등차수열 규칙검사 시스템 구현
+	음악의 박자에 맞춰 움직이는 오브젝트 시스템 구현
  
-	블록 소멸 연출
+	트리거를 통한 오브젝트 상호작용 및 애니메이션 구현
+ 
+	말풍선 UI 구현
+ 
